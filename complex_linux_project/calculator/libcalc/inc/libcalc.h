@@ -13,9 +13,9 @@
 */
 
 int calc_atoi(const char *str);
-int calc_sum(int arg_1, int arg_2);
-int calc_difference(int arg_1, int atg_2);
-int calc_product(int arg_1, int arg_2);
-float calc_fraction(int arg_1, int arg_2);
-long calc_factorial(int arg);
+long int calc_sum(int arg_1, int arg_2);
+long int calc_difference(int arg_1, int atg_2);
+long int calc_production(int arg_1, int arg_2);
+double calc_fraction(double arg_1, double arg_2);
+unsigned long long int calc_factorial(int arg);
 int calc_sqroot(int arg);
